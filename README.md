@@ -35,7 +35,7 @@
     ·
     <a href="https://www.youtube.com/watch?v=tad9TPCMWbU">Video Tutorial</a>
     ·
-    <a href="https://github.com/naity/citeseq_autoencoders/issues">Request Feature</a>
+    <a href="https://github.com/naity/citeseq_autoencoder/issues">Request Feature</a>
   </p>
 </div>
 
@@ -102,7 +102,7 @@ Given that gene and protein expressions provide distinct and complementary infor
 To run the Jupyter Notebooks, please follow the steps below:
 1. Clone the repo:
 ```sh
-git clone https://github.com/naity/citeseq_autoencoders.git
+git clone https://github.com/naity/citeseq_autoencoder.git
 ```
 
 2. [Optional] Run the R script to for data preprocessing:
